@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T10:43:22.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fGOZqU6LjCmsVcALIAcE" version="20.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-08T10:45:37.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5-jm3dbunD6uR64rohwW" version="20.8.3" type="github" pages="2">
   <diagram id="QoxAyvX7ZY9BHbRCG-fU" name="Diag_Arch_Cloud">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,7 +104,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I4bfxeDwZNtBkuDQzz4K" name="Diag_Arch_Kfet_Serveur">
-    <mxGraphModel dx="588" dy="342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -114,7 +114,7 @@
         <mxCell id="0SKw4KIRCZedrlld9jtn-2" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot;&gt;SERVEUR&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="491" y="121" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0SKw4KIRCZedrlld9jtn-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;fillColor=#03133f;gradientColor=none;strokeColor=#e8e8e8;" parent="1" vertex="1">
+        <mxCell id="0SKw4KIRCZedrlld9jtn-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;fillColor=#03133f;gradientColor=default;strokeColor=#e8e8e8;" parent="1" vertex="1">
           <mxGeometry x="321" y="161" width="449" height="260" as="geometry" />
         </mxCell>
         <mxCell id="0SKw4KIRCZedrlld9jtn-5" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot;&gt;CONTENEUR&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
