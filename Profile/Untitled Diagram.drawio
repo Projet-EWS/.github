@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T13:02:57.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="cLeJL5M9DzoPahdx5PbS" version="20.8.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-01-08T13:04:48.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="KTcSU3dklx-4iW4-ha2-" version="20.8.3" type="github" pages="3">
   <diagram id="QoxAyvX7ZY9BHbRCG-fU" name="Diag_Arch_Cloud">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,11 +245,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GEX5BoGmmYkIKgutw148" name="Diag_Arch_Kfet_Serveur">
-    <mxGraphModel dx="1222" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cESTmXn5G0NmRHrPxD1G-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;fillColor=#fc626b;gradientColor=none;strokeColor=#e8e8e8;" vertex="1" parent="1">
+        <mxCell id="cESTmXn5G0NmRHrPxD1G-3" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;fillColor=#03133f;gradientColor=none;strokeColor=#e8e8e8;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="110" width="489" height="320" as="geometry" />
         </mxCell>
         <mxCell id="cESTmXn5G0NmRHrPxD1G-8" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#e8e8e8;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;fillColor=#0080fa;gradientColor=none;size=7;direction=west;" vertex="1" parent="1">
@@ -276,7 +276,7 @@
         <mxCell id="cESTmXn5G0NmRHrPxD1G-24" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Overpass&quot; face=&quot;Overpass&quot;&gt;SPI&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="589" y="277" width="32" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cl7w2viApnAx3cL0mWJm-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#e8e8e8;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;fillColor=#0080fa;gradientColor=none;size=0;direction=west;" vertex="1" parent="1">
+        <mxCell id="cl7w2viApnAx3cL0mWJm-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#e8e8e8;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;fillColor=#fc626b;gradientColor=none;size=0;direction=west;" vertex="1" parent="1">
           <mxGeometry x="590" y="20" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cl7w2viApnAx3cL0mWJm-3" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Overpass&quot; face=&quot;Overpass&quot;&gt;ALIM 5V&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
