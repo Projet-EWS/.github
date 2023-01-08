@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T10:45:37.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="5-jm3dbunD6uR64rohwW" version="20.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-08T10:49:19.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="dYwyj90DeSQ4RGVWRXcB" version="20.8.3" type="github" pages="2">
   <diagram id="QoxAyvX7ZY9BHbRCG-fU" name="Diag_Arch_Cloud">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -144,10 +144,10 @@
         <mxCell id="0SKw4KIRCZedrlld9jtn-19" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Overpass&quot; face=&quot;Overpass&quot;&gt;Appareils des utilisateurs&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="107.5" y="178" width="81" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="0SKw4KIRCZedrlld9jtn-21" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#E8E8E8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=none;entryX=0;entryY=0;entryDx=115;entryDy=5;entryPerimeter=0;startWidth=29;startSize=8.71;endWidth=29;endSize=8.71;width=31;" parent="1" source="0SKw4KIRCZedrlld9jtn-18" target="0SKw4KIRCZedrlld9jtn-8" edge="1">
+        <mxCell id="0SKw4KIRCZedrlld9jtn-21" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#E8E8E8;strokeColor=none;startWidth=29;startSize=8.71;endWidth=29;endSize=8.71;width=31;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="259" y="208" as="sourcePoint" />
-            <mxPoint x="380" y="240" as="targetPoint" />
+            <mxPoint x="200" y="220" as="sourcePoint" />
+            <mxPoint x="370" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="33vSIhz_z05jIN6qrUoY-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
@@ -324,6 +324,9 @@
         </mxCell>
         <mxCell id="_TXjyGocFsSL7QuM8k3e-18" value="MONGO WIRE PROTOCOL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF" vertex="1" parent="1">
           <mxGeometry x="553" y="295.75" width="82.5" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="_TXjyGocFsSL7QuM8k3e-20" value="MONGO WIRE PROTOCOL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF" vertex="1" parent="1">
+          <mxGeometry x="350" y="268.5" width="82.5" height="54" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
