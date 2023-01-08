@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-08T11:00:54.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XIB0cSq97smI5ji6Q2Fu" version="20.8.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-08T11:01:31.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UfwpZ5WHPwFqIfAaAcUG" version="20.8.3" type="github" pages="2">
   <diagram id="QoxAyvX7ZY9BHbRCG-fU" name="Diag_Arch_Cloud">
     <mxGraphModel dx="794" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -339,6 +339,9 @@
         </mxCell>
         <mxCell id="1Xvres5cphi4GtWUtuTm-5" value="&lt;font face=&quot;Overpass&quot;&gt;Client WEB&amp;nbsp;&lt;br&gt;&lt;/font&gt;(BDE/Admin)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="110.5" y="356" width="81" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="WxUWl-ILKsZ1pzUEbnxI-1" value="&lt;font color=&quot;#03133f&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Overpass&quot; face=&quot;Overpass&quot;&gt;https&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="263.5" y="365" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
