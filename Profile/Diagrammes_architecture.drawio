@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-11T11:59:47.115Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="s_yvEI9mkkOsprrd5m0S" version="21.1.5" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-04-11T12:01:20.037Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="YzQgypbypovlQo9FxBOv" version="21.1.5" type="github" pages="6">
   <diagram id="QoxAyvX7ZY9BHbRCG-fU" name="Diag_Arch_Cloud">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="RYOHVuLhsSYiv5TbpHDl" name="Cloud_serveurs">
+  <diagram id="RYOHVuLhsSYiv5TbpHDl" name="Diag_Cloud_serveurs">
     <mxGraphModel dx="1360" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
